@@ -11,3 +11,7 @@
 | Larger hash table (diminishing returns / memory) | 16 | 2^21 | 16→4096 | 38.76 | 95.79 | 0.05 | 90|
 | Higher max resolution (slower) | 16 | 2^19 | 16→8192 | 38.79 | 96.09 | 0.05 | 103 |
 
+
+
+
+* The code is coming soon
